@@ -10,12 +10,12 @@ Before getting started, make sure you have the following installed on your local
 - [Terraform](https://www.terraform.io/downloads.html)
 - [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli)
 
-## **_Build With_** 🛠️
+## **_Build With_** 
 
 <div style="text-align: left">
     <p>
         <a href="https://code.visualstudio.com" target="_blank"> <img alt="V" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/vscode/vscode-original.svg" height="60" width = "60"></a>
-        <a href="https://www.terraform.io/" target="blank"><img src="[https://nestjs.com/img/logo-small.svg](https://www.terraform.io/_next/static/media/attributed_color.7832493a.svg)" width="60" alt="Terraform Logo" /></a>
+        <a href="https://www.terraform.io/" target="blank"><img src="https://static-00.iconduck.com/assets.00/terraform-icon-1803x2048-hodrzd3t.png" width="60" alt="Terraform Logo" /></a>
         <a href="https://https://portal.azure.com/#home/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" width="60" alt="Azure Logo" /></a>
    
     </p>
