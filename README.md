@@ -18,7 +18,7 @@ Before getting started, make sure you have the following installed on your local
         <a href="https://www.terraform.io/" target="blank"><img src="https://static-00.iconduck.com/assets.00/terraform-icon-1803x2048-hodrzd3t.png" width="60" alt="Terraform Logo" /></a>
         <a href="https://https://portal.azure.com/#home/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" width="60" alt="Azure Logo" />
    
-    </p>
+    
 </div>
 
 ## Configuration
